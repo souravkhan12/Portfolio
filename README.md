@@ -1,7 +1,9 @@
-# My Protfolio's frontend Hosted on netlify and Backend on heroku
+# My Protfolio
+
 https://inspiring-ritchie-d6fd98.netlify.app
+
 # To Run in your environment
-# ---------------------------Follow-------------------------
+ ---------------------------Follow-------------------------
 # Profile FE
 
 ## Testing
